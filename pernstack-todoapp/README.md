@@ -1,0 +1,1 @@
+## pern stack (postgres,express,react,node) following this tutorial https://www.youtube.com/watch?v=ldYcgPKEZC8
